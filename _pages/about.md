@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Since July 2023, I have been a research fellow at the Departmnet of Electrical and Computer Engineering (ECE) in National University of Singapore (NUS). Prior to that, I received the PhD degree from Nanyang Technological University (NTU) in 2023, Master's Degree from NUS in 2019, and Bachelor's Degree from Soochow University in 2018. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Since July 2025, I have been a Research Scientist (Architect, AI Computing) at Black Sesame Technologies (Singapore) Pte Ltd. From July 2023 to July 2025, I worked as a postdoctoral research fellow at the Departmnet of Electrical and Computer Engineering (ECE) in National University of Singapore (NUS). Prior to that, I received the PhD degree from Nanyang Technological University (NTU) in 2023, Master's Degree from NUS in 2019, and Bachelor's Degree from Soochow University in 2018. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🏫 Education
 
