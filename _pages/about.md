@@ -59,5 +59,9 @@ My research interests include spiking neural networks: encoding, learning and ar
 
 # 🎖 Awards
 
-- 2022-IEEE Antennas and Propagation Society (AP-S) Fellowship
-- 2018-Outstanding Graduate in Soochow University
+- Runner-up of Intel Neuromorphic Deep Noise Suppression Challenge, Intel.
+- Zhejiang Lab's International Talent Fund for Young Professionals, Zhejiang Lab.
+- National Scholarship, Ministry of Education.
+- Doctoral Scholarship of Zhejiang University, Zhejiang University.
+- Award of Honor for Graduate, Zhejiang University.
+- Best Academic Paper Award of the 353 Doctoral Innovation Forum, Zhejiang University.
