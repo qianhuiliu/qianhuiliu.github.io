@@ -4,9 +4,54 @@
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
-  <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <div class="author__avatar">
+
+    <style>
+      .hover-avatar {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        border-radius: 50%;
+        overflow: hidden;
+      }
+
+      .hover-avatar img {
+        width: 100%;
+        height: auto;
+        display: block;
+        transition: opacity 0.3s ease;
+      }
+
+      .hover-avatar img.hover {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+      }
+
+      .hover-avatar:hover img.hover {
+        opacity: 1;
+      }
+
+      .hover-avatar:hover img.normal {
+        opacity: 0;
+      }
+    </style>
+
+    <div class="hover-avatar">
+      <!-- 默认头像：用 _config.yml 里的 author.avatar（现在是 images/logo.png） -->
+      <img class="normal"
+           src="{{ author.avatar }}"
+           alt="{{ author.name }}">
+
+      <!-- 悬停头像：请确认这个路径和你实际文件一致 -->
+      <img class="hover"
+           src="images/logo_hover.png"
+           alt="{{ author.name }}">
+    </div>
+
   </div>
+
   
  <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
