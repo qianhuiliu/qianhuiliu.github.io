@@ -32,43 +32,29 @@ My research interests include spiking neural networks: encoding, learning and ar
 - 2025.06: I joined the School of Artificial Intelligence, Shandong University.
 - 2025.05: One paper accepted by IEEE TC.
 - 2025.01: One paper accepted by IEEE TIP.
+- 2024.12: One paper accepted by ICASSP.
+- 2024.06: One paper accepted by INTERSPEECH.
+- 2024.05: Completed our amazing FD-Fabrics project. Power Team!
 
-# 📝 Publication
-**2025**
-- **Q. Dai**, Y. Wang, C. Xu, D. Li, P. Pitchappa, T. C. Tan, R. Singh, and C. Lee, "High-Asymmetry Metasurface: A New Solution for Terahertz Resonance via Active Learning-Augmented Diffusion Model," Advanced Science, 2025.
-- X. Jia, M. Wang, **Q. Dai**, C. F. Wang, and A. C. Yucel, "Deep Learning-Based Partial Inductance Extraction of 3-D Interconnects," IEEE Journal on Multiscale and Multiphysics Computational Techniques, vol. 10, pp. 112-124, 2025.
-
-**2024**
-- **Q. Dai**, Y. Wang, C. Xu, D. Li, Z. Ren, C. Lee, “Deep generative model-assisted terahertz metamaterial design for beam steering”, The 1st International Conference on AI Sensors & The 10th International Symposium on Sensor Science, Singapore, 2024.
-- Y. Wang, **Q. Dai**, C. Xu, Z. Ren, D. Li, C. Lee, “THz MEMS based multifunctional reconfigurable intelligent surfaces,” The 1st International Conference on AI Sensors & The 10th International Symposium on Sensor Science, Singapore, 2024.
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 19668-19681, 2024.
-- J. Qian, Y. H. Lee, K. Cheng, **Q. Dai**, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A Deep Learning-Augmented Stand-Off Radar Scheme for Rapidly Detecting Tree Defects," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, 2024.
-
-**2023**
-- **Q. Dai**, Y. H. Lee, M. L. M. Yusof, D. Lee, and A. C. Yucel, “Learning from noise: An unsupervised GPR data denoising scheme based on generative adversarial networks,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
-- **Q. Dai**, Y. H. Lee, J. Qian, M. L. M. Yusof, D. Lee, and A. C. Yucel, "A signal processing algorithms-assisted deep learning scheme for ground-penetrating radar imaging," in Proc CNC-USNC/URSI National Radio Sci. Meet., Portland, OR, 2023.
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “3DInvNet: A deep learning scheme for 3D ground-penetrating radar data inversion,” IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023.
-
-**2022**
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “DMRF-UNet: A two-stage deep learning scheme for GPR data inversion under heterogeneous soil conditions,” IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6313-6328, 2022.
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, J. Qian, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A deep learning-based GPR forward solver for predicting B-scans of subsurface objects,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022.
-- H.-H. Sun, Y. H. Lee, **Q. Dai**, C. Li, G. Ow, M. L. M. Yusof, and A. C. Yucel, “Estimating parameters of the tree root in heterogeneous soil environments via mask-guided multi-polarimetric integration neural network,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022.
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “S2M-Net: A deep learning-based scheme for GPR image translation from simulation to measurement via a conditional generative adversarial network,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022.
-- J. Qian, Y. H. Lee, **Q. Dai**, K. Cheng, L. He, D. Lee, and A. C. Yucel, “Rapid health assessment of trees via deep learning-augmented radar,” in Proc CNC-USNC/URSI National Radio Sci. Meet., Denver, Colorado, USA, 2022.
-
-**2021**
-
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A deep learning scheme for rapidly reconstructing 3D permittivity maps from GPR C-scans,” in Proc IEEE Int. Symp. Antennas Propagat., Singapore, 2021.
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A two-stage deep neural network for ground-penetrating radar data inversion under heterogeneous soil conditions,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021.
-- **Q. Dai**, Y. H. Lee, H.-H. Sun, G. Ow, M. L. M. Yusof, and A. C. Yucel, “A fast 2D GPR forward solver for convex objects based on a deep learning technique,” in Proc CNC-USNC/URSI National Radio Sci. Meet, Singapore, 2021.
-
-**2020**
-
-- **Q. Dai**, B. Wen, G. Ow, M. L. M. Yusof, Y. H. Lee, and A. C. Yucel, “A deep learning-based methodology for rapidly detecting the defects inside tree trunks via GPR,” in Proc IEEE Int. Symp. Antennas Propagat., Montreal, Canada, 2020.
-
-**2019**
-
-- G. Shao, Y. Tang, L. Tang, **Q. Dai**, and Y.-X. Guo, “A novel passive magnetic localization wearable system for wireless capsule endoscopy,” IEEE Sensors Journal, vol. 19, no. 9, pp. 3462-3472, 2019.
+# 📝 Selected Publications
+-  \* Co-first author, \# Corresponding author
+-  Human-Inspired Computing for Robust and Efficient Audio-Visual Speech Recognition, **Qianhui Liu**, Jiadong Wang, Yang Wang, Xin Yang, Gang Pan, Haizhou Li, IEEE Transactions on Computers (TC), 2025.
+-  Spiking Neural Networks with Adaptive Membrane Time Constant for Event-Based Tracking, Jiqing Zhang, Malu Zhang, Yuanchen Wang, **Qianhui Liu**#, Baocai Yin, Haizhou Li, Xin Yang, IEEE Transactions on Image Processing (TIP), 2025.
+-  Two-Stream Spiking Neural Network for Event-based Action Recognition, Lian Shuang, **Qianhui Liu**\*, Ziling Wang, Jia Su, Zhibin Zuo, Yi Zhang, Rui Yan, Huajin Tang, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.
+-  LitE-SNN: Designing Lightweight Spiking Neural Network through Compressive Network Search and Joint Optimization, Qianhui Liu, Jiaqi Yan, Malu Zhang, Gang Pan, Haizhou Li, The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024.
+-  Intelligent Event-Based Lip-Reading Word Classification with SNN Using Spatio-Temporal Attention Features and Triplet Loss, **Qianhui Liu**, Meng Ge, Haizhou Li, Information Sciences, 2024.
+-  Efficient Spiking Neural Network Design via Neural Architecture Search, Jiaqi Yan, **Qianhui Liu**\*, Malu Zhang, Lang Feng, De Ma, Haizhou Li, Gang Pan, Neural Networks, 2024. 
+-  SVAD: A Robust, Low Power and Real-time Voice Activity Detection Using Spiking Neural Networks, Qu Yang, **Qianhui Liu**\*\#, Nan Li, Meng Ge, Zeyang Song, Haizhou Li. International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
+-  ED-sKWS: Early-Decision Spiking Neural Networks for Rapid and Energy-Efficient Keyword Spotting, Zeyang Song, **Qianhui Liu**\#, Qu Yang, Yizhou Peng, Haizhou Li, Interspeech, 2024.
+-  Learnable Surrogate Gradient for Direct Training Spiking Neural Networks, Shuang Lian, Jiangrong Shen, **Qianhui Liu**, Ziming Wang, Rui Yan, Huajin Tang, The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. 
+-  Adaptive Traffic Signal Control on Devices with Extremely Limited Resources,  Dong Xing, Qian Zheng, **Qianhui Liu**, Gang Pan. The 31st International Joint Conference on Artificial Intelligence (IJCAI),  2022.
+-  Learning with Generated Teammates to Achieve Type-Free Ad-Hoc Teamwork, Dong Xing, Qianhui Liu, Qian Zheng, Gang Pan, The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2022.
+-  Training Deep Convolutional Spiking Neural Networks with Spike Probabilistic Global Pooling, Shuang Lian, **Qianhui Liu**, Rui Yan, Huajin Tang, Neural Computation, 2022.
+-  Event-based Multimodal Spiking Neural Networks Using Attention Mechanism, **Qianhui Liu**, Dong Xing, Lang Feng, Huajin Tang, Gang Pan, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
+-  Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks, Lang Feng, **Qianhui Liu**, Huajin Tang, De Ma, Gang Pan. The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.
+-  Event-based Action Recognition Using Motion Information and Spiking Neural Networks, Qianhui Liu, Dong Xing, Huajin Tang, De Ma, Gang Pan, The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021.
+-  Effective AER Object Classification Using Segmented Probability-Maximisation Learning in Spiking Neural Networks, **Qianhui Liu**, Haibo Ruan, Dong Xing, Huajin Tang, Gang Pan, The 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
+-  Unsupervised AER Object Recognition Based on Multiscale Spatio-Temporal Features and Spiking Neurons, **Qianhui Liu**, Gang Pan, Haibo Ruan, Dong Xing, Qi Xu, Huajin Tang, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020.
 
 
 # 🎖 Awards
