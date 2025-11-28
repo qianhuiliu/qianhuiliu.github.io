@@ -17,13 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Since July 2025, I have been a Research Scientist (Architect, AI Computing) at Black Sesame Technologies (Singapore) Pte Ltd. From July 2023 to July 2025, I worked as a postdoctoral research fellow at the Departmnet of Electrical and Computer Engineering (ECE) in National University of Singapore (NUS). Prior to that, I received the PhD degree from Nanyang Technological University (NTU) in 2023, Master's Degree from NUS in 2019, and Bachelor's Degree from Soochow University in 2018. <a href='https://scholar.google.com/citations?user=nzyi6hEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FQiqi-Dai%2FQiqi-Dai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am an Associate Professor at Shandong University in Jinan, China. From 2022 to 2025, I was a Research Fellow at the National University of Singapore (NUS), Singapore, working in the Human Language Technology (HLT) Lab with Prof. Haizhou Li. I received my PhD and Bachelor’s degrees from Zhejiang University (ZJU), Hangzhou, China, in 2021 and 2016, respectively, under the supervision of Prof. Gang Pan and Prof. Huajin Tang.
+
+My research interests include spiking neural networks: encoding, learning and architecture design; event-based vision: object/motion/emotion recognition, tracking; (audio-only or audio-visual) speech processing: recognition, keyword spotting and voice activity detection.
 
 # 🏫 Education
 
-- *2019.08 - 2023.06*, Ph.D. in Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
-- *2018.08 - 2019.06*, M.Sc. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
-- *2014.09 - 2018.06*, B.Eng. in Communication Engineering, Soochow University, Suzhou, China.
+- *2022.01 - 2025.03*, Research Fellow, Department of Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
+- *2016.09 - 2021.09*, Ph.D., College of Computer Science and Technology, Zhejiang University (ZJU), China.
+- *2012.09 - 2016.06*, B.Eng., College of Computer Science and Technology, Zhejiang University (ZJU), China.
+
+# 🔥 News
+
+- 2025.06: I joined the School of Artificial Intelligence, Shandong University.
+- 2025.05: One paper accepted by IEEE TC.
+- 2025.01: One paper accepted by IEEE TIP.
 
 # 📝 Publication
 **2025**
