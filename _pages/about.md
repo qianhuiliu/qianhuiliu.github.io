@@ -35,6 +35,7 @@ My research interests include spiking neural networks: encoding, learning and ar
 - 2024.12: One paper accepted by ICASSP.
 - 2024.06: One paper accepted by INTERSPEECH.
 - 2024.05: Completed our amazing FD-Fabrics project. Power Team!
+- 2024.04: One paper accepted by IJCAI.
 
 # 📝 Selected Publications
 \* Co-first author, \# Corresponding author
