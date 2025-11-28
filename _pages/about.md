@@ -17,59 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-<!-- 🖼 Hover 切换照片的样式 -->
-<style>
-.hover-photo {
-  position: relative;
-  display: inline-block;
-  width: 220px;   /* 可以按需要调大小 */
-  height: 220px;
-  overflow: hidden;
-  border-radius: 50%;  /* 做成圆头像，喜欢方形就删掉这一行 */
-}
-
-/* 默认图 */
-.hover-photo img.normal {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: opacity 0.3s ease;
-  opacity: 1;
-}
-
-/* 悬停显示的图 */
-.hover-photo img.hover {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: opacity 0.3s ease;
-  opacity: 0;
-}
-
-/* 鼠标移上去：隐藏 normal，显示 hover */
-.hover-photo:hover img.normal {
-  opacity: 0;
-}
-.hover-photo:hover img.hover {
-  opacity: 1;
-}
-</style>
-
-<!-- 🖼 头像区：两张图叠在一起 -->
-<div class="hover-photo">
-  <img class="normal" src="/images/logo.png" alt="Qianhui Liu">
-  <img class="hover"  src="/images/gemeng.png"  alt="Qianhui Liu">
-</div>
-
-<br/><br/>
-
 I am an Associate Professor at Shandong University in Jinan, China. From 2022 to 2025, I was a Research Fellow at the National University of Singapore (NUS), Singapore, working in the Human Language Technology (HLT) Lab with Prof. Haizhou Li. I received my PhD and Bachelor’s degrees from Zhejiang University (ZJU), Hangzhou, China, in 2021 and 2016, respectively, under the supervision of Prof. Gang Pan and Prof. Huajin Tang.
 
 My research interests include spiking neural networks: encoding, learning and architecture design; event-based vision: object/motion/emotion recognition, tracking; (audio-only or audio-visual) speech processing: recognition, keyword spotting and voice activity detection.
