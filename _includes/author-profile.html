@@ -1,10 +1,12 @@
 {% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
-    <div class="author__avatar">
+  <div class="author__avatar">
 
     <style>
       .hover-avatar {
@@ -39,12 +41,12 @@
     </style>
 
     <div class="hover-avatar">
-      <!-- 默认头像：用 _config.yml 里的 author.avatar（现在是 images/logo.png） -->
+      <!-- 默认头像：_config.yml 里的 author.avatar -->
       <img class="normal"
            src="{{ author.avatar }}"
            alt="{{ author.name }}">
 
-      <!-- 悬停头像：请确认这个路径和你实际文件一致 -->
+      <!-- 悬停头像：记得和你实际路径一致 -->
       <img class="hover"
            src="images/photo-change.jpg"
            alt="{{ author.name }}">
@@ -52,24 +54,31 @@
 
   </div>
 
-  
- <div class="author__content">
+  <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
- </div>
-  
+  </div>
+
   <div class="author__urls-wrapper">
-    <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
-      <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> qhliu@sdu.edu.cn</a></li>
-      <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-      
+      <li>
+        <div style="white-space: normal; margin-bottom: 1em;">
+          {{ site.description }}
+        </div>
+      </li>
+
+      <!-- 只保留邮箱 -->
+      <li>
+        <a href="mailto:{{ author.email }}">
+          <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}
+        </a>
+      </li>
+
+      <!-- 只保留 Google Scholar -->
+      <li>
+        <a href="{{ author.googlescholar }}">
+          <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
+        </a>
+      </li>
     </ul>
-      <div class="author__urls_sm">
-      <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-      <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
-      <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
-      
-    </div>
   </div>
 </div>
