@@ -49,11 +49,11 @@ My research interests include spiking neural networks: encoding, learning and ar
 -  ED-sKWS: Early-Decision Spiking Neural Networks for Rapid and Energy-Efficient Keyword Spotting, Zeyang Song, **Qianhui Liu**\#, Qu Yang, Yizhou Peng, Haizhou Li, Interspeech, 2024.
 -  Learnable Surrogate Gradient for Direct Training Spiking Neural Networks, Shuang Lian, Jiangrong Shen, **Qianhui Liu**, Ziming Wang, Rui Yan, Huajin Tang, The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. 
 -  Adaptive Traffic Signal Control on Devices with Extremely Limited Resources,  Dong Xing, Qian Zheng, **Qianhui Liu**, Gang Pan. The 31st International Joint Conference on Artificial Intelligence (IJCAI),  2022.
--  Learning with Generated Teammates to Achieve Type-Free Ad-Hoc Teamwork, Dong Xing, **Qianhui Liu**, Qian Zheng, Gang Pan, The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2022.
 -  Training Deep Convolutional Spiking Neural Networks with Spike Probabilistic Global Pooling, Shuang Lian, **Qianhui Liu**, Rui Yan, Huajin Tang, Neural Computation, 2022.
 -  Event-based Multimodal Spiking Neural Networks Using Attention Mechanism, **Qianhui Liu**, Dong Xing, Lang Feng, Huajin Tang, Gang Pan, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
 -  Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks, Lang Feng, **Qianhui Liu**, Huajin Tang, De Ma, Gang Pan. The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.
 -  Event-based Action Recognition Using Motion Information and Spiking Neural Networks, **Qianhui Liu**, Dong Xing, Huajin Tang, De Ma, Gang Pan, The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021.
+-  Learning with Generated Teammates to Achieve Type-Free Ad-Hoc Teamwork, Dong Xing, **Qianhui Liu**, Qian Zheng, Gang Pan, The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021.
 -  Effective AER Object Classification Using Segmented Probability-Maximisation Learning in Spiking Neural Networks, **Qianhui Liu**, Haibo Ruan, Dong Xing, Huajin Tang, Gang Pan, The 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
 -  Unsupervised AER Object Recognition Based on Multiscale Spatio-Temporal Features and Spiking Neurons, **Qianhui Liu**, Gang Pan, Haibo Ruan, Dong Xing, Qi Xu, Huajin Tang, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020.
 
