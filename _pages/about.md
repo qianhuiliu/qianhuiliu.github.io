@@ -37,7 +37,7 @@ My research interests include spiking neural networks: encoding, learning and ar
 - 2024.05: Completed our amazing FD-Fabrics project. Power Team!
 - 2024.04: One paper accepted by IJCAI.
 
-# 📝 Publications
+# 📝 Selected Publications
 \* Co-first author, \# Corresponding author
 -  Human-Inspired Computing for Robust and Efficient Audio-Visual Speech Recognition, **Qianhui Liu**, Jiadong Wang, Yang Wang, Xin Yang, Gang Pan, Haizhou Li, IEEE Transactions on Computers (TC), 2025.
 -  Spiking Neural Networks with Adaptive Membrane Time Constant for Event-Based Tracking, Jiqing Zhang, Malu Zhang, Yuanchen Wang, **Qianhui Liu**#, Baocai Yin, Haizhou Li, Xin Yang, IEEE Transactions on Image Processing (TIP), 2025.
