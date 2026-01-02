@@ -29,7 +29,7 @@ My research interests include spiking neural networks: encoding, learning and ar
 
 # 🔥 News
 
-- 2025.12: One project was granted by the Shandong Provincial
+- 2025.12: One project was granted by the Shandong Excellent Young Scientists Fund Program (Overseas).
 - 2025.06: I joined the School of Artificial Intelligence, Shandong University.
 - 2025.05: One paper accepted by IEEE TC.
 - 2025.01: One paper accepted by IEEE TIP.
