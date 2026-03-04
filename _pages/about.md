@@ -29,6 +29,9 @@ My research interests include spiking neural networks: encoding, learning and ar
 
 # 🔥 News
 
+- 2026.03: One paper accepted by IEEE TCSVT.
+- 2026.02: One paper accepted by CVPR.
+- 2026.01: One paper accepted by ICLR.
 - 2025.12: One project was granted by the Shandong Excellent Young Scientists Fund Program (Overseas).
 - 2025.06: I joined the School of Artificial Intelligence, Shandong University.
 - 2025.05: One paper accepted by IEEE TC.
