@@ -43,7 +43,7 @@ My research interests include spiking neural networks: encoding, learning and ar
 
 # 📝 Selected Publications
 \* Co-first author, \# Corresponding author
--  Lightweight and Personalized Single-Eye Emotion Recognition via CNN-SNN Spatiotemporal Learning and Memory-Inferred Event Features, Qianhui Liu, Jiqing Zhang, Yang Wang, Malu Zhang, Xin Yang, Gang Pan, Haizhou Li, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.
+-  Lightweight and Personalized Single-Eye Emotion Recognition via CNN-SNN Spatiotemporal Learning and Memory-Inferred Event Features, **Qianhui Liu**, Jiqing Zhang, Yang Wang, Malu Zhang, Xin Yang, Gang Pan, Haizhou Li, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.
 -  SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network, Yang Wang, Jiqing Zhang, Chuanyu Sun, **Qianhui Liu**, Huilin Ge, Ziqi Wei, Xin Yang, CVPR, 2026.
 -  Otters: An Energy-Efficient SpikingTransformer via Optical Time-to-First-Spike Encoding, Zhanglu Yan, Jiayi Mao, **Qianhui Liu**, Fanfan Li, Gang Pan, Tao Luo, Bowen Zhu, Weng-Fai Wong, ICLR, 2026.
 -  Human-Inspired Computing for Robust and Efficient Audio-Visual Speech Recognition, **Qianhui Liu**, Jiadong Wang, Yang Wang, Xin Yang, Gang Pan, Haizhou Li, IEEE Transactions on Computers (TC), 2025.
